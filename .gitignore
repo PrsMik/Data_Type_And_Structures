@@ -1,0 +1,14 @@
+.idea/
+.vs/
+x64/
+GCC Test/
+C++Kont/
+PythonKont/
+YandexC++/
+YandexContest/
+Калькулятор/
+Стресс Тест/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
